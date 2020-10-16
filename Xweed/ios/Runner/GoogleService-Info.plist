@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>715030105993-si88ii25293mcvdtvmdn3b3kfo6372je.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.715030105993-si88ii25293mcvdtvmdn3b3kfo6372je</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0vqUiJmimJ8xUKGKO6qNhzsIXmFfgoZE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>715030105993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kng.Xweed</string>
+	<key>PROJECT_ID</key>
+	<string>xweed-42b10</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xweed-42b10.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:715030105993:ios:673f429403a0f59f9fdb58</string>
+	<key>DATABASE_URL</key>
+	<string>https://xweed-42b10.firebaseio.com</string>
+</dict>
+</plist>
